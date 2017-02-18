@@ -23,7 +23,7 @@ public class ModUpdateChecker {
 
 	private static final String API_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/";
 
-	private String[] modIds = {"566885854", "693416678", "670764308",  "793605978", "621154190"};
+	private String[] modIds = {"566885854", "693416678", "670764308",  "793605978", "621154190", "558079412"};
 
 	public ModUpdateChecker() {
 
